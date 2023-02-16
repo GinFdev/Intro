@@ -2,12 +2,12 @@
 
 ## About me 🐕
 
-Iam Quan, iam blockchain(and dog) enthusiast who are learning and doing some coding in this field. I look more like a finance guy than a tech guy since i do more research and business in financial field than coding field.
+iam blockchain(and dog) enthusiast. 
 
 ## Skill 🌱
 
 * Solidity
-* Dapps dev
+* Front-end stuff
 
 ## Contact me:
 Gmail: npquan2209@gmail.com
