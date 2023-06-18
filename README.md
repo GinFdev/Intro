@@ -6,7 +6,7 @@ Whether it's layer2 solutions, data storage, or stable coins, Decentralization i
 
 ## Skills 
 
-I'm proficient in Java, Javascript, and Solidity. Additionally, I have experience with front-end development and enjoy creating engaging, user-friendly interfaces that make blockchain technology more accessible.
+I'm proficient in Typescript, Rust and Solidity. I mainly work with the back-end
 
 ## Let's Connect and Build Something Amazing!
 
